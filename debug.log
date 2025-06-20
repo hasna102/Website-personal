@@ -1,0 +1,522 @@
+[20-Jun-2025 04:08:23 UTC] POST Data received: Array
+(
+    [csrf_token] => 7881f3d88bb28a89a64fe17069ddbc4f654721aa92cb5dc5a199a4c42b16fc52
+    [title] => Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko"
+    [date] => 2025-06-19
+    [picture] => https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg
+    [content] => Raja Ampat, terletak di provinsi Papua Barat Daya, Indonesia, adalah salah satu destinasi wisata yang paling menakjubkan di dunia. Terdiri dari 610 pulau, Raja Ampat memiliki keindahan alam yang menakjubkan, termasuk pantai pasir putih, terumbu karang yang subur, dan kehidupan laut yang sangat beragam. Namun, di balik keindahan tersebut, terdapat berbagai risiko lingkungan yang perlu diperhatikan oleh wisatawan dan pengelola pariwisata. 
+
+Lokasi dan Geografi Raja Ampat 
+Kabupaten Raja Ampat memiliki empat pulau besar---Misool, Salawati, Batanta, dan Waigeo---dan banyak pulau kecil lainnya, hanya 35 di antaranya berpenghuni. 
+
+Meski luas daratannya hanya sekitar 7.559,60 km, luas lautannya mencapai 59.820,00 km, menjadikan wilayah ini sebagai surga bagi pecinta laut. Batas wilayah Raja Ampat meliputi Samudera Pasifik di utara, Kota Sorong dan Kabupaten Sorong di timur, Laut Seram di selatan, dan Laut Seram serta Kabupaten Halmahera Tengah di barat.
+
+Aksesibilitas dan Transportasi 
+Perjalanan ke Raja Ampat bisa melalui jalur udara atau laut. Jalur laut menghubungkan pelabuhan Tanjung Priok di Jakarta ke pelabuhan Sorong menggunakan kapal Pelni, dengan waktu perjalanan sekitar 5 hari 9 jam. 
+
+Setelah tiba di Sorong, wisatawan dapat menggunakan kapal feri ke Raja Ampat. Jalur udara menawarkan penerbangan langsung dari Jakarta ke Bandara Domine Eduard Osok di Sorong, dengan waktu tempuh sekitar 6 jam 40 menit. Dari Sorong, perjalanan dilanjutkan dengan pesawat kecil menuju Bandara Marinda di Waisai.  
+
+Atraksi Wisata dan Aktivitas
+Raja Ampat dikenal dengan atraksi utama seperti snorkeling dan diving di beberapa lokasi terbaik di dunia, termasuk Pulau Wayag, Arborek, dan Misool. Wisatawan juga dapat menikmati trekking melalui hutan hujan lebat, mengunjungi air terjun, dan berinteraksi dengan budaya lokal Papua di desa tradisional. 
+
+Selain itu, aktivitas lain seperti birdwatching di Sawinggrai, berenang dengan ubur-ubur di Danau Kakaban, dan menikmati sunset di Teluk Kabui menambah daya tarik Raja Ampat.
+
+Amenitas dan Fasilitas
+Di Raja Ampat, berbagai jenis akomodasi tersedia, mulai dari resor mewah hingga penginapan lokal yang lebih sederhana. Restoran-restoran menyajikan hidangan lokal dan internasional, dan ada juga toko souvenir serta pasar tradisional. Layanan penyewaan peralatan snorkeling dan diving, serta panduan wisata lokal, juga tersedia untuk mempermudah eksplorasi wisatawan.
+
+Risiko dan Kerentanan 
+Raja Ampat menghadapi beberapa risiko lingkungan seperti gempa bumi, kebakaran hutan, gunung berapi, dan longsor. Gempa bumi terjadi karena letaknya di jalur penunjaman Indonesia Timur, sementara kebakaran hutan dapat disebabkan oleh cuaca panas ekstrem. 
+
+Namun, risiko gunung berapi dianggap rendah karena tidak ada gunung berapi aktif di kawasan ini. Longsor mungkin terjadi di daerah perbukitan, terutama saat musim hujan.
+
+KESIMPULAN
+Raja Ampat adalah destinasi wisata yang luar biasa dengan keindahan alam dan keanekaragaman hayati yang menakjubkan. Meskipun memiliki beberapa risiko lingkungan, manajemen risiko yang tepat dapat membantu meminimalkan dampak dan memastikan pengalaman wisata yang aman dan menyenangkan. Bagi para pengunjung yang mencari petualangan dan keindahan tropis, Raja Ampat adalah tujuan yang layak untuk dijelajahi.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+[20-Jun-2025 04:08:23 UTC] Processed data - Title: Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", Content length: 3331, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 8
+)
+
+[20-Jun-2025 04:08:23 UTC] Transaction started
+[20-Jun-2025 04:08:23 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:08:23 UTC] Update params - title: Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", content length: 3331, picture: https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg, date: 2025-06-19, id: 8
+[20-Jun-2025 04:08:23 UTC] Update result: true, Affected rows: 0
+[20-Jun-2025 04:08:23 UTC] Delete categories result: true
+[20-Jun-2025 04:08:23 UTC] Delete authors result: true
+[20-Jun-2025 04:08:23 UTC] Categories inserted successfully
+[20-Jun-2025 04:08:23 UTC] Authors inserted successfully
+[20-Jun-2025 04:08:23 UTC] Transaction committed successfully
+[20-Jun-2025 04:08:23 UTC] Article updated successfully
+[20-Jun-2025 04:08:41 UTC] POST Data received: Array
+(
+    [csrf_token] => 7881f3d88bb28a89a64fe17069ddbc4f654721aa92cb5dc5a199a4c42b16fc52
+    [title] => Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko"
+    [date] => 2025-06-19
+    [picture] => https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg
+    [content] => Raja Ampat, terletak di provinsi Papua Barat Daya, Indonesia, adalah salah satu destinasi wisata yang paling menakjubkan di dunia. Terdiri dari 610 pulau, Raja Ampat memiliki keindahan alam yang menakjubkan, termasuk pantai pasir putih, terumbu karang yang subur, dan kehidupan laut yang sangat beragam. Namun, di balik keindahan tersebut, terdapat berbagai risiko lingkungan yang perlu diperhatikan oleh wisatawan dan pengelola pariwisata. 
+
+Lokasi dan Geografi Raja Ampat 
+Kabupaten Raja Ampat memiliki empat pulau besar---Misool, Salawati, Batanta, dan Waigeo---dan banyak pulau kecil lainnya, hanya 35 di antaranya berpenghuni. 
+
+Meski luas daratannya hanya sekitar 7.559,60 km, luas lautannya mencapai 59.820,00 km, menjadikan wilayah ini sebagai surga bagi pecinta laut. Batas wilayah Raja Ampat meliputi Samudera Pasifik di utara, Kota Sorong dan Kabupaten Sorong di timur, Laut Seram di selatan, dan Laut Seram serta Kabupaten Halmahera Tengah di barat.
+
+Aksesibilitas dan Transportasi 
+Perjalanan ke Raja Ampat bisa melalui jalur udara atau laut. Jalur laut menghubungkan pelabuhan Tanjung Priok di Jakarta ke pelabuhan Sorong menggunakan kapal Pelni, dengan waktu perjalanan sekitar 5 hari 9 jam. 
+
+Setelah tiba di Sorong, wisatawan dapat menggunakan kapal feri ke Raja Ampat. Jalur udara menawarkan penerbangan langsung dari Jakarta ke Bandara Domine Eduard Osok di Sorong, dengan waktu tempuh sekitar 6 jam 40 menit. Dari Sorong, perjalanan dilanjutkan dengan pesawat kecil menuju Bandara Marinda di Waisai.  
+
+Atraksi Wisata dan Aktivitas
+Raja Ampat dikenal dengan atraksi utama seperti snorkeling dan diving di beberapa lokasi terbaik di dunia, termasuk Pulau Wayag, Arborek, dan Misool. Wisatawan juga dapat menikmati trekking melalui hutan hujan lebat, mengunjungi air terjun, dan berinteraksi dengan budaya lokal Papua di desa tradisional. 
+
+Selain itu, aktivitas lain seperti birdwatching di Sawinggrai, berenang dengan ubur-ubur di Danau Kakaban, dan menikmati sunset di Teluk Kabui menambah daya tarik Raja Ampat.
+
+Amenitas dan Fasilitas
+Di Raja Ampat, berbagai jenis akomodasi tersedia, mulai dari resor mewah hingga penginapan lokal yang lebih sederhana. Restoran-restoran menyajikan hidangan lokal dan internasional, dan ada juga toko souvenir serta pasar tradisional. Layanan penyewaan peralatan snorkeling dan diving, serta panduan wisata lokal, juga tersedia untuk mempermudah eksplorasi wisatawan.
+
+Risiko dan Kerentanan 
+Raja Ampat menghadapi beberapa risiko lingkungan seperti gempa bumi, kebakaran hutan, gunung berapi, dan longsor. Gempa bumi terjadi karena letaknya di jalur penunjaman Indonesia Timur, sementara kebakaran hutan dapat disebabkan oleh cuaca panas ekstrem. 
+
+Namun, risiko gunung berapi dianggap rendah karena tidak ada gunung berapi aktif di kawasan ini. Longsor mungkin terjadi di daerah perbukitan, terutama saat musim hujan.
+
+KESIMPULAN
+Raja Ampat adalah destinasi wisata yang luar biasa dengan keindahan alam dan keanekaragaman hayati yang menakjubkan. Meskipun memiliki beberapa risiko lingkungan, manajemen risiko yang tepat dapat membantu meminimalkan dampak dan memastikan pengalaman wisata yang aman dan menyenangkan. Bagi para pengunjung yang mencari petualangan dan keindahan tropis, Raja Ampat adalah tujuan yang layak untuk dijelajahi.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+[20-Jun-2025 04:08:41 UTC] Processed data - Title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", Content length: 3331, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 8
+)
+
+[20-Jun-2025 04:08:41 UTC] Transaction started
+[20-Jun-2025 04:08:41 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:08:41 UTC] Update params - title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", content length: 3331, picture: https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg, date: 2025-06-19, id: 8
+[20-Jun-2025 04:08:41 UTC] Update result: true, Affected rows: 1
+[20-Jun-2025 04:08:41 UTC] Delete categories result: true
+[20-Jun-2025 04:08:41 UTC] Delete authors result: true
+[20-Jun-2025 04:08:41 UTC] Categories inserted successfully
+[20-Jun-2025 04:08:41 UTC] Authors inserted successfully
+[20-Jun-2025 04:08:41 UTC] Transaction committed successfully
+[20-Jun-2025 04:08:41 UTC] Article updated successfully
+[20-Jun-2025 04:17:15 UTC] POST Data received: Array
+(
+    [csrf_token] => 08c852432192facb9dac72d6e4a8743165ba470199103622be46a33e2e1f144a
+    [title] => Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko"
+    [date] => 2025-06-19
+    [picture] => https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg
+    [content] => Raja Ampat, terletak di provinsi Papua Barat Daya, Indonesia, adalah salah satu destinasi wisata yang paling menakjubkan di dunia. Terdiri dari 610 pulau, Raja Ampat memiliki keindahan alam yang menakjubkan, termasuk pantai pasir putih, terumbu karang yang subur, dan kehidupan laut yang sangat beragam. Namun, di balik keindahan tersebut, terdapat berbagai risiko lingkungan yang perlu diperhatikan oleh wisatawan dan pengelola pariwisata. 
+
+Lokasi dan Geografi Raja Ampat 
+Kabupaten Raja Ampat memiliki empat pulau besar---Misool, Salawati, Batanta, dan Waigeo---dan banyak pulau kecil lainnya, hanya 35 di antaranya berpenghuni. 
+
+Meski luas daratannya hanya sekitar 7.559,60 km, luas lautannya mencapai 59.820,00 km, menjadikan wilayah ini sebagai surga bagi pecinta laut. Batas wilayah Raja Ampat meliputi Samudera Pasifik di utara, Kota Sorong dan Kabupaten Sorong di timur, Laut Seram di selatan, dan Laut Seram serta Kabupaten Halmahera Tengah di barat.
+
+Aksesibilitas dan Transportasi 
+Perjalanan ke Raja Ampat bisa melalui jalur udara atau laut. Jalur laut menghubungkan pelabuhan Tanjung Priok di Jakarta ke pelabuhan Sorong menggunakan kapal Pelni, dengan waktu perjalanan sekitar 5 hari 9 jam. 
+
+Setelah tiba di Sorong, wisatawan dapat menggunakan kapal feri ke Raja Ampat. Jalur udara menawarkan penerbangan langsung dari Jakarta ke Bandara Domine Eduard Osok di Sorong, dengan waktu tempuh sekitar 6 jam 40 menit. Dari Sorong, perjalanan dilanjutkan dengan pesawat kecil menuju Bandara Marinda di Waisai.  
+
+Atraksi Wisata dan Aktivitas
+Raja Ampat dikenal dengan atraksi utama seperti snorkeling dan diving di beberapa lokasi terbaik di dunia, termasuk Pulau Wayag, Arborek, dan Misool. Wisatawan juga dapat menikmati trekking melalui hutan hujan lebat, mengunjungi air terjun, dan berinteraksi dengan budaya lokal Papua di desa tradisional. 
+
+Selain itu, aktivitas lain seperti birdwatching di Sawinggrai, berenang dengan ubur-ubur di Danau Kakaban, dan menikmati sunset di Teluk Kabui menambah daya tarik Raja Ampat.
+
+Amenitas dan Fasilitas
+Di Raja Ampat, berbagai jenis akomodasi tersedia, mulai dari resor mewah hingga penginapan lokal yang lebih sederhana. Restoran-restoran menyajikan hidangan lokal dan internasional, dan ada juga toko souvenir serta pasar tradisional. Layanan penyewaan peralatan snorkeling dan diving, serta panduan wisata lokal, juga tersedia untuk mempermudah eksplorasi wisatawan.
+
+Risiko dan Kerentanan 
+Raja Ampat menghadapi beberapa risiko lingkungan seperti gempa bumi, kebakaran hutan, gunung berapi, dan longsor. Gempa bumi terjadi karena letaknya di jalur penunjaman Indonesia Timur, sementara kebakaran hutan dapat disebabkan oleh cuaca panas ekstrem. 
+
+Namun, risiko gunung berapi dianggap rendah karena tidak ada gunung berapi aktif di kawasan ini. Longsor mungkin terjadi di daerah perbukitan, terutama saat musim hujan.
+
+KESIMPULAN
+Raja Ampat adalah destinasi wisata yang luar biasa dengan keindahan alam dan keanekaragaman hayati yang menakjubkan. Meskipun memiliki beberapa risiko lingkungan, manajemen risiko yang tepat dapat membantu meminimalkan dampak dan memastikan pengalaman wisata yang aman dan menyenangkan. Bagi para pengunjung yang mencari petualangan dan keindahan tropis, Raja Ampat adalah tujuan yang layak untuk dijelajahi.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+[20-Jun-2025 04:17:15 UTC] Processed data - Title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", Content length: 3331, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 8
+)
+
+[20-Jun-2025 04:17:15 UTC] Transaction started
+[20-Jun-2025 04:17:16 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:17:16 UTC] Update params - title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", content length: 3331, picture: https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg, date: 2025-06-19, id: 8
+[20-Jun-2025 04:17:16 UTC] Update result: true, Affected rows: 0
+[20-Jun-2025 04:17:16 UTC] Delete categories result: true
+[20-Jun-2025 04:17:16 UTC] Delete authors result: true
+[20-Jun-2025 04:17:16 UTC] Categories inserted successfully
+[20-Jun-2025 04:17:16 UTC] Authors inserted successfully
+[20-Jun-2025 04:17:16 UTC] Transaction committed successfully
+[20-Jun-2025 04:17:16 UTC] Article updated successfully
+[20-Jun-2025 04:26:53 UTC] Database error in edit_article.php (SELECT): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'database.article_category' doesn't exist
+[20-Jun-2025 04:27:01 UTC] Database error in edit_article.php (SELECT): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'database.article_category' doesn't exist
+[20-Jun-2025 04:27:01 UTC] POST Data received: Array
+(
+    [csrf_token] => 08c852432192facb9dac72d6e4a8743165ba470199103622be46a33e2e1f144a
+    [title] => Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko"
+    [date] => 2025-06-19
+    [picture] => https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg
+    [content] => Raja Ampat, terletak di provinsi Papua Barat Daya, Indonesia, adalah salah satu destinasi wisata yang paling menakjubkan di dunia. Terdiri dari 610 pulau, Raja Ampat memiliki keindahan alam yang menakjubkan, termasuk pantai pasir putih, terumbu karang yang subur, dan kehidupan laut yang sangat beragam. Namun, di balik keindahan tersebut, terdapat berbagai risiko lingkungan yang perlu diperhatikan oleh wisatawan dan pengelola pariwisata. 
+
+Lokasi dan Geografi Raja Ampat 
+Kabupaten Raja Ampat memiliki empat pulau besar---Misool, Salawati, Batanta, dan Waigeo---dan banyak pulau kecil lainnya, hanya 35 di antaranya berpenghuni. 
+
+Meski luas daratannya hanya sekitar 7.559,60 km, luas lautannya mencapai 59.820,00 km, menjadikan wilayah ini sebagai surga bagi pecinta laut. Batas wilayah Raja Ampat meliputi Samudera Pasifik di utara, Kota Sorong dan Kabupaten Sorong di timur, Laut Seram di selatan, dan Laut Seram serta Kabupaten Halmahera Tengah di barat.
+
+Aksesibilitas dan Transportasi 
+Perjalanan ke Raja Ampat bisa melalui jalur udara atau laut. Jalur laut menghubungkan pelabuhan Tanjung Priok di Jakarta ke pelabuhan Sorong menggunakan kapal Pelni, dengan waktu perjalanan sekitar 5 hari 9 jam. 
+
+Setelah tiba di Sorong, wisatawan dapat menggunakan kapal feri ke Raja Ampat. Jalur udara menawarkan penerbangan langsung dari Jakarta ke Bandara Domine Eduard Osok di Sorong, dengan waktu tempuh sekitar 6 jam 40 menit. Dari Sorong, perjalanan dilanjutkan dengan pesawat kecil menuju Bandara Marinda di Waisai.  
+
+Atraksi Wisata dan Aktivitas
+Raja Ampat dikenal dengan atraksi utama seperti snorkeling dan diving di beberapa lokasi terbaik di dunia, termasuk Pulau Wayag, Arborek, dan Misool. Wisatawan juga dapat menikmati trekking melalui hutan hujan lebat, mengunjungi air terjun, dan berinteraksi dengan budaya lokal Papua di desa tradisional. 
+
+Selain itu, aktivitas lain seperti birdwatching di Sawinggrai, berenang dengan ubur-ubur di Danau Kakaban, dan menikmati sunset di Teluk Kabui menambah daya tarik Raja Ampat.
+
+Amenitas dan Fasilitas
+Di Raja Ampat, berbagai jenis akomodasi tersedia, mulai dari resor mewah hingga penginapan lokal yang lebih sederhana. Restoran-restoran menyajikan hidangan lokal dan internasional, dan ada juga toko souvenir serta pasar tradisional. Layanan penyewaan peralatan snorkeling dan diving, serta panduan wisata lokal, juga tersedia untuk mempermudah eksplorasi wisatawan.
+
+Risiko dan Kerentanan 
+Raja Ampat menghadapi beberapa risiko lingkungan seperti gempa bumi, kebakaran hutan, gunung berapi, dan longsor. Gempa bumi terjadi karena letaknya di jalur penunjaman Indonesia Timur, sementara kebakaran hutan dapat disebabkan oleh cuaca panas ekstrem. 
+
+Namun, risiko gunung berapi dianggap rendah karena tidak ada gunung berapi aktif di kawasan ini. Longsor mungkin terjadi di daerah perbukitan, terutama saat musim hujan.
+
+KESIMPULAN
+Raja Ampat adalah destinasi wisata yang luar biasa dengan keindahan alam dan keanekaragaman hayati yang menakjubkan. Meskipun memiliki beberapa risiko lingkungan, manajemen risiko yang tepat dapat membantu meminimalkan dampak dan memastikan pengalaman wisata yang aman dan menyenangkan. Bagi para pengunjung yang mencari petualangan dan keindahan tropis, Raja Ampat adalah tujuan yang layak untuk dijelajahi.
+)
+
+[20-Jun-2025 04:27:01 UTC] Processed data - Title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", Content length: 3331, Categories: Array
+(
+)
+, Authors: Array
+(
+)
+
+[20-Jun-2025 04:27:01 UTC] Transaction started
+[20-Jun-2025 04:27:01 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:27:01 UTC] Update params - title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", content length: 3331, picture: https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg, date: 2025-06-19, id: 8
+[20-Jun-2025 04:27:01 UTC] Update result: true, Affected rows: 0
+[20-Jun-2025 04:27:01 UTC] Database error in edit_article.php (UPDATE): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'database.article_category' doesn't exist
+[20-Jun-2025 04:27:01 UTC] PDO Error Info: Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'database.article_category' doesn't exist
+)
+
+[20-Jun-2025 04:27:14 UTC] Database error in edit_article.php (SELECT): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'database.article_category' doesn't exist
+[20-Jun-2025 04:27:14 UTC] POST Data received: Array
+(
+    [csrf_token] => 08c852432192facb9dac72d6e4a8743165ba470199103622be46a33e2e1f144a
+    [title] => Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko"
+    [date] => 2025-06-19
+    [picture] => https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg
+    [content] => Raja Ampat, terletak di provinsi Papua Barat Daya, Indonesia, adalah salah satu destinasi wisata yang paling menakjubkan di dunia. Terdiri dari 610 pulau, Raja Ampat memiliki keindahan alam yang menakjubkan, termasuk pantai pasir putih, terumbu karang yang subur, dan kehidupan laut yang sangat beragam. Namun, di balik keindahan tersebut, terdapat berbagai risiko lingkungan yang perlu diperhatikan oleh wisatawan dan pengelola pariwisata. 
+
+Lokasi dan Geografi Raja Ampat 
+Kabupaten Raja Ampat memiliki empat pulau besar---Misool, Salawati, Batanta, dan Waigeo---dan banyak pulau kecil lainnya, hanya 35 di antaranya berpenghuni. 
+
+Meski luas daratannya hanya sekitar 7.559,60 km, luas lautannya mencapai 59.820,00 km, menjadikan wilayah ini sebagai surga bagi pecinta laut. Batas wilayah Raja Ampat meliputi Samudera Pasifik di utara, Kota Sorong dan Kabupaten Sorong di timur, Laut Seram di selatan, dan Laut Seram serta Kabupaten Halmahera Tengah di barat.
+
+Aksesibilitas dan Transportasi 
+Perjalanan ke Raja Ampat bisa melalui jalur udara atau laut. Jalur laut menghubungkan pelabuhan Tanjung Priok di Jakarta ke pelabuhan Sorong menggunakan kapal Pelni, dengan waktu perjalanan sekitar 5 hari 9 jam. 
+
+Setelah tiba di Sorong, wisatawan dapat menggunakan kapal feri ke Raja Ampat. Jalur udara menawarkan penerbangan langsung dari Jakarta ke Bandara Domine Eduard Osok di Sorong, dengan waktu tempuh sekitar 6 jam 40 menit. Dari Sorong, perjalanan dilanjutkan dengan pesawat kecil menuju Bandara Marinda di Waisai.  
+
+Atraksi Wisata dan Aktivitas
+Raja Ampat dikenal dengan atraksi utama seperti snorkeling dan diving di beberapa lokasi terbaik di dunia, termasuk Pulau Wayag, Arborek, dan Misool. Wisatawan juga dapat menikmati trekking melalui hutan hujan lebat, mengunjungi air terjun, dan berinteraksi dengan budaya lokal Papua di desa tradisional. 
+
+Selain itu, aktivitas lain seperti birdwatching di Sawinggrai, berenang dengan ubur-ubur di Danau Kakaban, dan menikmati sunset di Teluk Kabui menambah daya tarik Raja Ampat.
+
+Amenitas dan Fasilitas
+Di Raja Ampat, berbagai jenis akomodasi tersedia, mulai dari resor mewah hingga penginapan lokal yang lebih sederhana. Restoran-restoran menyajikan hidangan lokal dan internasional, dan ada juga toko souvenir serta pasar tradisional. Layanan penyewaan peralatan snorkeling dan diving, serta panduan wisata lokal, juga tersedia untuk mempermudah eksplorasi wisatawan.
+
+Risiko dan Kerentanan 
+Raja Ampat menghadapi beberapa risiko lingkungan seperti gempa bumi, kebakaran hutan, gunung berapi, dan longsor. Gempa bumi terjadi karena letaknya di jalur penunjaman Indonesia Timur, sementara kebakaran hutan dapat disebabkan oleh cuaca panas ekstrem. 
+
+Namun, risiko gunung berapi dianggap rendah karena tidak ada gunung berapi aktif di kawasan ini. Longsor mungkin terjadi di daerah perbukitan, terutama saat musim hujan.
+
+KESIMPULAN
+Raja Ampat adalah destinasi wisata yang luar biasa dengan keindahan alam dan keanekaragaman hayati yang menakjubkan. Meskipun memiliki beberapa risiko lingkungan, manajemen risiko yang tepat dapat membantu meminimalkan dampak dan memastikan pengalaman wisata yang aman dan menyenangkan. Bagi para pengunjung yang mencari petualangan dan keindahan tropis, Raja Ampat adalah tujuan yang layak untuk dijelajahi.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+[20-Jun-2025 04:27:14 UTC] Processed data - Title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", Content length: 3331, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 8
+)
+
+[20-Jun-2025 04:27:14 UTC] Transaction started
+[20-Jun-2025 04:27:14 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:27:14 UTC] Update params - title: Eksplorasi raja Ampat: Surga Wisata Tropis dengan Segala Risiko     Konten ini telah tayang di Kompasiana.com dengan judul "Eksplorasi Raja Ampat: Surga Wisata Tropis dengan Segala Risiko", content length: 3331, picture: https://i.pinimg.com/736x/dc/64/f7/dc64f767ec651f2239ea9101cda2bb3f.jpg, date: 2025-06-19, id: 8
+[20-Jun-2025 04:27:14 UTC] Update result: true, Affected rows: 0
+[20-Jun-2025 04:27:14 UTC] Database error in edit_article.php (UPDATE): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'database.article_category' doesn't exist
+[20-Jun-2025 04:27:14 UTC] PDO Error Info: Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'database.article_category' doesn't exist
+)
+
+[20-Jun-2025 04:45:44 UTC] POST Data received: Array
+(
+    [csrf_token] => d1e117bd9eef3ae618a6178bc69d7f7f80611f2d8faa31ebfbc1b6e4f51e067e
+    [title] => raja Ampat: Surga Petualangan Dunia di Ujung Papua
+    [date] => 2025-06-20
+    [picture] => https://indonesiakaya.com/wp-content/uploads/2020/10/raja-ampat-surga1290-scaled.jpg
+    [content] => sekilas, pikiran melayang dan sebuah lukisan elok pun terbayang. Lautan lepas dengan pulau-pulau karang yang tersusun rapih menyambut lumba-lumba yang berloncatan ceria. Langit biru berpadu indah dengan riak ombak yang menyisir pasir putih di tepian pantai. Udara segar bertiup riuh rendah, menjamin kesejukan alami khas hutan tropis yang hijau. Suara burung camar menyeruak indah, seakan bernyanyi dan mensyukuri pemandangan menakjubkan ini. Dari dalam air, ikan-ikan berwarna cantik menghiasi karang-karang hidup yang menari gemulai. Ini adalah surga kehidupan nyata di bumi.
+
+Deskripsi tempat indah di atas bukanlah mimpi; semuanya nyata dan benar-benar ada. Kepulauan ini terletak di Papua Barat, Indonesia. Berada di ujung barat laut pulau Papua, kawasan ini telah dikenal luas sebagai ‘tambang emas’ bagi para penggila petualangan. Bagi para penyelam, baik dalam negeri maupun luar negeri, tempat ini dianggap sebagai surga yang tak terungkapkan kata-kata. Satu-satunya cara untuk membuktikan berbagai pendapat ini adalah dengan datang langsung menikmati ‘sang mutiara’ di ujung Papua.
+
+Raja Ampat adalah sebuah kabupaten yang merupakan bagian dari Provinsi Papua Barat. Untuk mencapai daerah ini, kita harus terlebih dahulu menuju kota Sorong. Banyak wisatawan yang menggunakan penerbangan untuk sampai ke kota tersebut. Setelah tiba di Sorong, kita bisa melanjutkan perjalanan menggunakan kapal cepat yang berlayar dua kali sehari menuju Waisai, ibu kota kabupaten. Perjalanan ini hanya memakan waktu sekitar 2-3 jam dari pelabuhan Sorong hingga tiba di pelabuhan Waisai.
+
+Secara umum, kepulauan ini terdiri dari banyak pulau karang yang tersebar luas di seluruh wilayahnya. Namun, terdapat empat pulau utama yang paling besar, yaitu Pulau Waigeo, Pulau Batanta, Pulau Salawati, dan Pulau Misool. Keempat pulau besar ini menjadi titik awal penyebaran penduduk setempat, sebagian besar yang berprofesi sebagai nelayan. Wilayah perairannya merupakan daya tarik utama, mengingat perairannya termasuk salah satu dari 10 terbaik di dunia, berdasarkan berbagai penelitian mengenai kekayaan flora dan fauna serta kelestarian alam laut yang dimilikinya.
+
+Sebuah laporan dari badan konservasi internasional menyebutkan bahwa perairan wilayah ini memiliki sekitar 75% spesies laut di seluruh dunia. Bahkan, wilayah laut dan darat yang mencakup 4,6 juta hektar ini menjadi rumah bagi 540 jenis karang, 1.511 spesies ikan, dan ribuan biota laut lainnya. Dengan keunggulan-keunggulan tersebut, tidak mengherankan jika tempat ini dianggap sebagai surga bawah laut tercantik di dunia.
+
+Selain kekayaan alam bawah laut, kawasan ini juga menyimpan banyak daya tarik di atas permukaannya. Banyak pantai indah berpasir putih yang tersebar di seluruh kepulauan, dengan tekstur halus seperti tepung. Selain itu, deretan pulau-pulau yang membentuk tebing-tebing tinggi semakin menambah keindahan. Beberapa tempat, seperti Piaynemo, Teluk Kabui, dan Wayag, telah dikenal luas di seluruh dunia sebelum populer di dalam negeri. Hutan tropisnya juga tidak kalah menarik, dengan beberapa lokasi seperti desa Sawinggrai atau Saporkrein menawarkan pengalaman tak terlupakan untuk menyaksikan burung cenderawasih, spesies langka dan indah yang sering disebut sebagai burung surga.
+
+Kekayaan alam di kawasan ini tidak hanya terbatas pada keindahan alam bawah laut, tetapi juga meliputi kebudayaan dan kesenian yang sangat unik dan menarik. Beberapa desa di wilayah ini telah mengukuhkan diri sebagai desa wisata, salah satunya Desa Arborek. Desa yang terletak di sebuah pulau kecil ini memiliki berbagai kesenian, mulai dari tarian tradisional, makanan Sinole yang terbuat dari sagu, hingga kerajinan anyaman daun pandan khas Arborek yang diwariskan turun-temurun antar generasi. Desa Arborek hanyalah salah satu dari sekian banyak desa yang memiliki keunikan masing-masing.
+
+Selain itu, banyak peninggalan sejarah yang dapat ditemukan di kepulauan ini, yang memiliki kaitan dengan Kesultanan Tidore, Maluku. Beberapa penduduknya masih memiliki darah Kerajaan Tidore, sementara peninggalan-peninggalan perang dunia kedua dan gua-gua dengan lukisan tangan khas manusia purba juga tersebar di seluruh wilayah. Mempelajari keunikan kawasan ini seakan tidak ada habisnya, itulah yang menjadikannya begitu berjaya hingga saat ini.
+
+
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 7
+        )
+
+)
+
+[20-Jun-2025 04:45:44 UTC] Processed data - Title: raja Ampat: Surga Petualangan Dunia di Ujung Papua, Content length: 4324, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 7
+)
+
+[20-Jun-2025 04:45:44 UTC] Transaction started
+[20-Jun-2025 04:45:44 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 04:45:44 UTC] Update params - title: raja Ampat: Surga Petualangan Dunia di Ujung Papua, content length: 4324, picture: https://indonesiakaya.com/wp-content/uploads/2020/10/raja-ampat-surga1290-scaled.jpg, date: 2025-06-20, id: 8
+[20-Jun-2025 04:45:44 UTC] Update result: true, Affected rows: 1
+[20-Jun-2025 04:45:44 UTC] Delete categories result: true
+[20-Jun-2025 04:45:44 UTC] Delete authors result: true
+[20-Jun-2025 04:45:44 UTC] Categories inserted successfully
+[20-Jun-2025 04:45:44 UTC] Authors inserted successfully
+[20-Jun-2025 04:45:44 UTC] Transaction committed successfully
+[20-Jun-2025 04:45:44 UTC] Article updated successfully
+[20-Jun-2025 06:07:39 UTC] POST Data received: Array
+(
+    [csrf_token] => 494ffbd8193713fa7906b6c0a24f913daa02bc92145503d79295763fca016723
+    [title] => Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan
+    [date] => 2025-05-01
+    [picture] => https://indonesiakaya.com/wp-content/uploads/2020/10/bromo_1200.jpg
+    [content] => kepulauan Derawan, sebuah surga tersembunyi di Kalimantan Timur, memikat para petualang dengan keindahan alam bawah lautnya yang menakjubkan. Gugusan pulau eksotis ini terletak di Kabupaten Berau dan terdiri dari 3 kecamatan utama: Pulau Derawan, Maratua, dan Biduk Biduk. Masing-masing kecamatan menawarkan pesona yang berbeda, namun semuanya menyajikan panorama pantai pasir putih yang lembut, air laut jernih kebiruan, dan terumbu karang yang hidup.
+
+Dari sekian banyak pulau yang ada, empat pulau utama, yaitu Maratua, Derawan, Sangalaki, dan Kakaban, menjadi destinasi favorit para wisatawan. Pulau Maratua terkenal dengan pasir putihnya yang halus dan ombak yang tenang, sangat cocok untuk bersantai dan berjemur. Pulau Derawan menawarkan pengalaman snorkeling dan menyelam yang tak terlupakan dengan beragam jenis ikan dan terumbu karang. Pulau Sangalaki adalah surga bagi penyu hijau, sementara Pulau Kakaban menyuguhkan danau air asin yang unik dengan ubur-ubur tidak menyengat. Semua pulau ini dapat diakses dengan mudah dengan menyewa speedboat dari Pulau Derawan, menjadikannya titik awal yang sempurna untuk menjelajahi keindahan Kepulauan Derawan.
+
+Tersembunyi di perairan biru Kabupaten Berau, Kalimantan Timur, Kepulauan Derawan menjanjikan pengalaman liburan yang tak terlupakan. Meski jarak tempuhnya sekitar tiga jam perjalanan laut dari daratan, membuat pulau-pulau ini belum sepopuler Bali atau Lombok, namun justru hal inilah yang menjaga keindahan alamnya tetap asli. Pengunjung yang beruntung dapat menikmati hamparan pasir putih yang lembut, deburan ombak yang menenangkan, dan terumbu karang yang hidup dengan beragam biota laut. Namun, untuk mencapai surga tersembunyi ini, para petualang harus siap menempuh perjalanan yang cukup menantang melalui jalur darat, laut, atau udara. Perjalanan yang panjang ini akan terbayar lunas dengan keindahan alam yang disuguhkan Kepulauan Derawan.
+
+Bagi para penjelajah yang mencari destinasi wisata yang belum tersentuh oleh banyak orang, Kepulauan Derawan adalah jawabannya. Terletak sekitar tiga jam perjalanan laut dari Kabupaten Berau, Kalimantan Timur, gugusan pulau ini menawarkan keindahan alam yang masih perawan. Keindahan bawah lautnya yang memukau dengan beragam jenis ikan dan terumbu karang menjadi daya tarik utama bagi para penyelam dan snorkeling. Namun, untuk mencapai surga tersembunyi ini, pengunjung harus rela menempuh perjalanan yang cukup panjang dan melelahkan melalui jalur darat, laut, atau udara. Jarak tempuh yang jauh ini justru menjadikannya destinasi yang eksklusif bagi mereka yang benar-benar ingin menikmati keindahan alam yang autentik dan jauh dari hiruk-pikuk.
+
+Kepulauan Derawan adalah surga bagi para pecinta bawah laut. Perairannya yang jernih menjadi rumah bagi lebih dari 870 jenis biota laut, mulai dari kura-kura raksasa hingga ikan hiu Derawan yang unik. Bayangkan saja, wisatawan bisa berenang bersama penyu hijau, menyaksikan ikan pari meluncur anggun, atau bahkan berjumpa dengan lumba-lumba yang ramah. Keanekaragaman hayati yang luar biasa ini menjadikan Kepulauan Derawan sebagai destinasi snorkeling dan menyelam yang wajib dikunjungi.
+
+Ingin merasakan sensasi berpetualang di tengah keindahan alam yang masih asli? Kepulauan Derawan adalah jawabannya. Dengan pantai pasir putih yang lembut dan air laut yang jernih, wisatawan bisa bersantai sambil menikmati pemandangan yang menakjubkan. Bagi pelancong yang menyukai aktivitas bawah laut, snorkeling dan menyelam di sini akan menjadi pengalaman yang tak terlupakan. Berenang bersama penyu hijau, menyaksikan ikan-ikan berwarna-warni, atau sekadar menikmati keindahan terumbu karang adalah beberapa aktivitas yang bisa dilakukan.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 9
+        )
+
+)
+
+[20-Jun-2025 06:07:39 UTC] Processed data - Title: Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan, Content length: 3706, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 9
+)
+
+[20-Jun-2025 06:07:39 UTC] Transaction started
+[20-Jun-2025 06:07:39 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 06:07:39 UTC] Update params - title: Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan, content length: 3706, picture: https://indonesiakaya.com/wp-content/uploads/2020/10/bromo_1200.jpg, date: 2025-05-01, id: 10
+[20-Jun-2025 06:07:39 UTC] Update result: true, Affected rows: 1
+[20-Jun-2025 06:07:39 UTC] Delete categories result: true
+[20-Jun-2025 06:07:39 UTC] Delete authors result: true
+[20-Jun-2025 06:07:39 UTC] Categories inserted successfully
+[20-Jun-2025 06:07:39 UTC] Authors inserted successfully
+[20-Jun-2025 06:07:39 UTC] Transaction committed successfully
+[20-Jun-2025 06:07:39 UTC] Article updated successfully
+[20-Jun-2025 06:09:07 UTC] POST Data received: Array
+(
+    [csrf_token] => 86463b6ff7ad3729e9d9992bc216f6f23b69a8892f679e1bab77008a84f9581b
+    [title] => Menikmati Keindahan Sang Surya Terbit Di Gunung Bromo
+    [date] => 2025-04-09
+    [picture] => https://i.pinimg.com/736x/20/4a/fd/204afd1a99d578329ec6f76abc429865.jpg
+    [content] => Melihat keindahan sang surya terbit dari ufuk timur di Gunung Bromo secara perlahan mungkin menjadi satu anugrah yang tak terhingga indahnya. Paduan warna kuning, oranye, hitam dan biru yang dihasilkan oleh fenomena alam ini sungguh menjadi pemandangan menarik yang tersaji bagi mata kita yang melihatnya.
+
+Keindahan Gunung Bromo yang berada di dalam Kawasan Gunung Semeru memang sudah terkenal hingga ke mancanegara. Gunung ini dianggap suci oleh masyarakat Tengger, suku yang mendiami wilayah Gunung Bromo. Nama Bromo sendiri diambil dari nama dewa utama umat hindu yaitu Brahma.
+
+Melakukan perjalanan menuju Gunung Bromo, kaki kita akan disambut kawah pasir yang terbentang sepanjang kawasan salah satu gunung di Jawa Timur ini. Bila kita melakukan perjalanan menuju Bromo di pagi hari, kita akan disajikan warna-warna indah berasal dari pasir yang terkena pantulan sinar matahari. Pasir-pasir disini juga seolah berbisik saat tersapu oleh tiupan angin yang berhembus tenang saat pagi menyapa.
+
+Sambil berjalan, kita bisa melihat beberapa bangunan yang berdiri di sekitar kawasan ini. Salah satunya adalah bangunan Poten. Bangunan kokoh yang berdiri di tengah lautan pasir ini menjadi tempat beribadah yang digunakan masyarakat Suku Tengger. Arsitektur bergaya Hindu Bali sangat melekat pada bangunan ini. Di setiap gerang pintunya di jaga patung dengan bentuk singa yang terlihat seperti sedang menyeringai. Patung-patung ini dimaksudkan untuk mengusir roh-roh jahat yang akan menggangu kawasan Gunung Bromo.
+
+Bukan hanya menjadi tempat wisata, Gunung Bromo juga menjadi tempat digelarnya ritual keagamaan umat hindu. Salah satu ritual yang digelar Suku Tengger di sini setiap tahunnya adalah ritual Yadnya Kasada. Dalam ritual ini, Masyarakat Suku Tengger mempersembahkan sesajian berupa binatang ternak dan makanan untuk para dewa-dewa yang mendiami gunung-gunung yang berada di kawasan ini seperti Gunung Semeru, Batok, Bromo dan Pananjakan.
+
+Berada di Kawasan Gunung Bromo dan menyaksikan keindahan alam yang disajikan disini memang menjadi pengalaman yang tak terlupakan. Pasir yang eksotis, sunrise yang begitu indah dan berinteraksi dengan masyarakat Suku Tengger tentunya membuat perjalanan menelusuri Kawasan Gunung Bromo terasa begitu menyenangkan.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+[20-Jun-2025 06:09:07 UTC] Processed data - Title: Menikmati Keindahan Sang Surya Terbit Di Gunung Bromo, Content length: 2272, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 8
+)
+
+[20-Jun-2025 06:09:07 UTC] Transaction started
+[20-Jun-2025 06:09:07 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 06:09:07 UTC] Update params - title: Menikmati Keindahan Sang Surya Terbit Di Gunung Bromo, content length: 2272, picture: https://i.pinimg.com/736x/20/4a/fd/204afd1a99d578329ec6f76abc429865.jpg, date: 2025-04-09, id: 11
+[20-Jun-2025 06:09:07 UTC] Update result: true, Affected rows: 1
+[20-Jun-2025 06:09:07 UTC] Delete categories result: true
+[20-Jun-2025 06:09:07 UTC] Delete authors result: true
+[20-Jun-2025 06:09:07 UTC] Categories inserted successfully
+[20-Jun-2025 06:09:07 UTC] Authors inserted successfully
+[20-Jun-2025 06:09:07 UTC] Transaction committed successfully
+[20-Jun-2025 06:09:07 UTC] Article updated successfully
+[20-Jun-2025 06:09:42 UTC] POST Data received: Array
+(
+    [csrf_token] => 86463b6ff7ad3729e9d9992bc216f6f23b69a8892f679e1bab77008a84f9581b
+    [title] => Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan
+    [date] => 2025-05-01
+    [picture] => https://i.pinimg.com/736x/15/17/79/1517797f4482a2e487a1fcadc39b4513.jpg
+    [content] => kepulauan Derawan, sebuah surga tersembunyi di Kalimantan Timur, memikat para petualang dengan keindahan alam bawah lautnya yang menakjubkan. Gugusan pulau eksotis ini terletak di Kabupaten Berau dan terdiri dari 3 kecamatan utama: Pulau Derawan, Maratua, dan Biduk Biduk. Masing-masing kecamatan menawarkan pesona yang berbeda, namun semuanya menyajikan panorama pantai pasir putih yang lembut, air laut jernih kebiruan, dan terumbu karang yang hidup.
+
+Dari sekian banyak pulau yang ada, empat pulau utama, yaitu Maratua, Derawan, Sangalaki, dan Kakaban, menjadi destinasi favorit para wisatawan. Pulau Maratua terkenal dengan pasir putihnya yang halus dan ombak yang tenang, sangat cocok untuk bersantai dan berjemur. Pulau Derawan menawarkan pengalaman snorkeling dan menyelam yang tak terlupakan dengan beragam jenis ikan dan terumbu karang. Pulau Sangalaki adalah surga bagi penyu hijau, sementara Pulau Kakaban menyuguhkan danau air asin yang unik dengan ubur-ubur tidak menyengat. Semua pulau ini dapat diakses dengan mudah dengan menyewa speedboat dari Pulau Derawan, menjadikannya titik awal yang sempurna untuk menjelajahi keindahan Kepulauan Derawan.
+
+Tersembunyi di perairan biru Kabupaten Berau, Kalimantan Timur, Kepulauan Derawan menjanjikan pengalaman liburan yang tak terlupakan. Meski jarak tempuhnya sekitar tiga jam perjalanan laut dari daratan, membuat pulau-pulau ini belum sepopuler Bali atau Lombok, namun justru hal inilah yang menjaga keindahan alamnya tetap asli. Pengunjung yang beruntung dapat menikmati hamparan pasir putih yang lembut, deburan ombak yang menenangkan, dan terumbu karang yang hidup dengan beragam biota laut. Namun, untuk mencapai surga tersembunyi ini, para petualang harus siap menempuh perjalanan yang cukup menantang melalui jalur darat, laut, atau udara. Perjalanan yang panjang ini akan terbayar lunas dengan keindahan alam yang disuguhkan Kepulauan Derawan.
+
+Bagi para penjelajah yang mencari destinasi wisata yang belum tersentuh oleh banyak orang, Kepulauan Derawan adalah jawabannya. Terletak sekitar tiga jam perjalanan laut dari Kabupaten Berau, Kalimantan Timur, gugusan pulau ini menawarkan keindahan alam yang masih perawan. Keindahan bawah lautnya yang memukau dengan beragam jenis ikan dan terumbu karang menjadi daya tarik utama bagi para penyelam dan snorkeling. Namun, untuk mencapai surga tersembunyi ini, pengunjung harus rela menempuh perjalanan yang cukup panjang dan melelahkan melalui jalur darat, laut, atau udara. Jarak tempuh yang jauh ini justru menjadikannya destinasi yang eksklusif bagi mereka yang benar-benar ingin menikmati keindahan alam yang autentik dan jauh dari hiruk-pikuk.
+
+Kepulauan Derawan adalah surga bagi para pecinta bawah laut. Perairannya yang jernih menjadi rumah bagi lebih dari 870 jenis biota laut, mulai dari kura-kura raksasa hingga ikan hiu Derawan yang unik. Bayangkan saja, wisatawan bisa berenang bersama penyu hijau, menyaksikan ikan pari meluncur anggun, atau bahkan berjumpa dengan lumba-lumba yang ramah. Keanekaragaman hayati yang luar biasa ini menjadikan Kepulauan Derawan sebagai destinasi snorkeling dan menyelam yang wajib dikunjungi.
+
+Ingin merasakan sensasi berpetualang di tengah keindahan alam yang masih asli? Kepulauan Derawan adalah jawabannya. Dengan pantai pasir putih yang lembut dan air laut yang jernih, wisatawan bisa bersantai sambil menikmati pemandangan yang menakjubkan. Bagi pelancong yang menyukai aktivitas bawah laut, snorkeling dan menyelam di sini akan menjadi pengalaman yang tak terlupakan. Berenang bersama penyu hijau, menyaksikan ikan-ikan berwarna-warni, atau sekadar menikmati keindahan terumbu karang adalah beberapa aktivitas yang bisa dilakukan.
+    [categories] => Array
+        (
+            [0] => 7
+        )
+
+    [authors] => Array
+        (
+            [0] => 9
+        )
+
+)
+
+[20-Jun-2025 06:09:42 UTC] Processed data - Title: Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan, Content length: 3706, Categories: Array
+(
+    [0] => 7
+)
+, Authors: Array
+(
+    [0] => 9
+)
+
+[20-Jun-2025 06:09:42 UTC] Transaction started
+[20-Jun-2025 06:09:42 UTC] Update query: UPDATE article SET title = :title, content = :content, picture = :picture, 
+                             date = :date WHERE id = :id
+[20-Jun-2025 06:09:42 UTC] Update params - title: Menyelami Keindahan Surga Bawah Laut di Kepulauan Derawan, content length: 3706, picture: https://i.pinimg.com/736x/15/17/79/1517797f4482a2e487a1fcadc39b4513.jpg, date: 2025-05-01, id: 10
+[20-Jun-2025 06:09:42 UTC] Update result: true, Affected rows: 1
+[20-Jun-2025 06:09:42 UTC] Delete categories result: true
+[20-Jun-2025 06:09:42 UTC] Delete authors result: true
+[20-Jun-2025 06:09:42 UTC] Categories inserted successfully
+[20-Jun-2025 06:09:42 UTC] Authors inserted successfully
+[20-Jun-2025 06:09:42 UTC] Transaction committed successfully
+[20-Jun-2025 06:09:42 UTC] Article updated successfully
